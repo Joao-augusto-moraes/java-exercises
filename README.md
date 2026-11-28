@@ -1,5 +1,7 @@
 # Exercícios de Java
 
+> 🎓 **Projeto acadêmico** · Análise e Desenvolvimento de Sistemas, PUCPR · 2025
+
 Exercícios de lógica de programação e primeiros passos em orientação a objetos, feitos durante o aprendizado de Java.
 
 ## 🧱 Stack
